@@ -1,3 +1,4 @@
+// This script is shared under a GPLv3 License by GitHub user amrzco. Check license.txt at the main repo.
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 const int tempPin = A0;
